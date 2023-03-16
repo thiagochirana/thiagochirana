@@ -10,7 +10,7 @@
 
 ## O que usei até agora...
 
-<div align="left">
+<div align="top">
 
 ![Views](https://komarev.com/ghpvc/?username=othiagomacedo&label=Profile+visitors:)
 
