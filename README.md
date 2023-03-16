@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 
-<body>
-<p> - 👋 e aí, sou @othiagomacedo </p>
-<p> - 👀 Tô aqui de curioso </p>
-<p>- 🌱 aprendendo Eng. de SW pelo SENAI, serei futuro garoto de programa </p>
+
+## Olá!  
+<p> - 👋 E aí, sou o Chirana </p>
+<p> - 👀 Tô aqui vivendo e aprendendo... </p>
+<p>- 🌱 Estudo Eng. de SW pelo SENAI, serei futuro garoto de programa </p>
 <p>- 💞️ Javeiro, até agora...<p>
 
 
@@ -16,6 +17,20 @@
 <img src="https://streak-stats.demolab.com/?user=othiagomacedo&theme=github_dark&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>
+
+
+## O que usei até agora...
+
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=othiagomacedo&label=Profile+visitors:)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&layout=compact&theme=dark)](https://github.com/othiagomacedo)
+
+![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomacedo&count_private=true&show_icons=true&theme=dark&hide=issues)
+
+</div>
+
 
 ## Fale comigo  
 <div align="center">
@@ -33,5 +48,4 @@
 </a>  
 </div> 
 
-</body>
 </html>
