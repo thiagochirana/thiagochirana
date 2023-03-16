@@ -10,7 +10,7 @@
 
 ## O que usei até agora...
 
-<div align="top">
+<div valign="top">
 
 ![Views](https://komarev.com/ghpvc/?username=othiagomacedo&label=Profile+visitors:)
 
@@ -22,7 +22,7 @@
 
 
 ## Fale comigo  
-<div align="center">
+<div valign="center">
 <a href="https://github.com/mrabro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
