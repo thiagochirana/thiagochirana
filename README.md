@@ -9,16 +9,12 @@
 
 ## O que usei até agora...
 
-<div align-itens="top">
-
 <div valign="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&layout=compact&theme=dark)](https://github.com/othiagomacedo)
 </div>
 
 <div valign="right">
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomacedo&count_private=true&show_icons=true&theme=dark&hide=issues)
-</div>
-
 </div>
 
 
