@@ -1,9 +1,9 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rizsyad AR
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, sou o Thiago Chirana!
 
-![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
-[![Gmail Badge](https://img.shields.io/badge/-rizsyad@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rizsyad@gmail.com)](mailto:rizsyad@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-Rizsyad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Rizsyad/)](https://www.github.com/rizsyad/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiagochirana@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
 <p align='left'>Apenas um garoto de programa...</p>
 
@@ -20,30 +20,3 @@
     <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="othiagomacedo :: Top Langs" /></a>
     <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="othiagomacedo :: Profile Stats" /></a>
 </p>
-
-<p>
-    <a href="https://github.com/othiagomacedo">
-        <img src="https://github-profile-trophy.vercel.app/?username=othiagomacedo&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" />
-    </a>
-</p>
-
-
-
-## Olá!  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiagochirana@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
-
-
-## O que usei até agora...
-
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&layout=compact&theme=dark)](https://github.com/othiagomacedo)
-
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomacedo&count_private=true&show_icons=true&theme=dark&hide=issues)
-
-</div>
-
-
-</html>
