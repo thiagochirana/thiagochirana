@@ -10,17 +10,21 @@
 
 ## O que usei até agora...
 
-<table><tr><td valign="top" width="50%">
+
 <div>
 
 ![Views](https://komarev.com/ghpvc/?username=othiagomacedo&label=Profile+visitors:)
 
+<table><tr><td valign="top" width="50%">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&layout=compact&theme=dark)](https://github.com/othiagomacedo)
+</td></tr></table>
 
+<table><tr><td valign="top" width="50%">
 ![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomacedo&count_private=true&show_icons=true&theme=dark&hide=issues)
+</td></tr></table>
 
 </div>
-</td></tr></table>
+
 
 
 ## Fale comigo  
