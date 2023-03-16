@@ -10,7 +10,8 @@
 
 ## O que usei até agora...
 
-<div valign="center">
+<table><tr><td valign="top" width="50%">
+<div>
 
 ![Views](https://komarev.com/ghpvc/?username=othiagomacedo&label=Profile+visitors:)
 
@@ -19,6 +20,7 @@
 ![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomacedo&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div>
+</td></tr></table>
 
 
 ## Fale comigo  
