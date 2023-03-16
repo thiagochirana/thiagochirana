@@ -2,7 +2,7 @@
 
 
 ## Olá!  
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)(https://www.linkedin.com/in/thiago-c-macedo/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiagochirana@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
