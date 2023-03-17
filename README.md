@@ -1,13 +1,14 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, sou o Thiago Chirana!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou o Thiago Chirana!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiagochirana@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiago.chirana@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
-<p align='left'>Apenas um garoto de programa...</p>
+<p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode proporcionar</p>
+<p align='left'>Atualmente sou Dev Java Jr, Pizza com borda de chocolate é a melhor e Spring Boot 3 é minha paixão</p>
 
-<h2>Meu Github Status</h2>
+<h2>Um pouco do meu Github</h2>
 
 <h4>Curiosos :eyes:</h4>
 <p>
