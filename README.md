@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
 <p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode proporcionar</p>
-<p align='left'>Atualmente sou Dev Java Jr, Pizza com borda de chocolate é a melhor e Spring Boot 3 é minha paixão</p>
+<p align='left'>Atualmente sou Dev Java Jr, Pizza com borda de chocolate é a melhor e Spring Boot 3 é minha nova paixão</p>
 
 <h2>Um pouco do meu Github</h2>
 
@@ -18,6 +18,6 @@
 </p>
 
 <p>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=Grafico+de+Linguagens" alt="othiagomacedo :: Top Langs" /></a>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=Meu+Github+Status" alt="othiagomacedo :: Profile Stats" /></a>
+    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Grafico+de+Linguagens" alt="othiagomacedo :: Top Langs" /></a>
+    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Meu+Github+Status" alt="othiagomacedo :: Profile Stats" /></a>
 </p>
