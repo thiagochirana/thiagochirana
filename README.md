@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
 <p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode proporcionar</p>
-<p align='left'>Atualmente sou Dev Java Jr, Pizza com borda de chocolate é a melhor e Spring Boot 3 é minha nova paixão</p>
+<p align='left'>Atualmente sou Dev Fullstack Jr, Pizza com borda de chocolate é a melhor e Spring e Rails são minhas novas paixões</p>
 
 <h2>Um pouco do meu Github</h2>
 
