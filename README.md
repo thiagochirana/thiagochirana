@@ -1,23 +1,23 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou o Thiago Chirana!
+## Opa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou o Thiago Chirana!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiago.chirana@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagochirana/)](https://instagram.com/thiagochirana)
 
-<p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode proporcionar</p>
-<p align='left'>Atualmente sou Dev Fullstack Jr, Pizza com borda de chocolate é a melhor e Spring e Rails são minhas novas paixões</p>
+<p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode criar</p>
+<p align='left'>Atualmente sou Dev Fullstack Jr, pizza com borda de chocolate é a melhor e Spring e Rails são meus novos brinquedos</p>
 
-<h2>Um pouco do meu Github</h2>
+<h2>Alguns dados até hoje...</h2>
 
-<h4>Curiosos :eyes:</h4>
+<h4>Visitantes :eyes:</h4>
 <p>
-    <a href="https://github.com/othiagomacedo">
-        <img src="https://profile-counter.glitch.me/{othiagomacedo}/count.svg" alt="othiagomacedo :: Visitor's Count" />
+    <a href="https://github.com/thiagochirana">
+        <img src="https://profile-counter.glitch.me/{thiagochirana}/count.svg" alt="thiagochirana :: Visitor's Count" />
     </a>
 </p>
 
 <p>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Grafico+de+Linguagens" alt="othiagomacedo :: Top Langs" /></a>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Meu+Github+Status" alt="othiagomacedo :: Profile Stats" /></a>
+    <a href="https://github.com/thiagochirana"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagochirana&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Grafico+de+Linguagens" alt="thiagochirana :: Top Langs" /></a>
+    <a href="https://github.com/thiagochirana"><img src="https://github-readme-stats.vercel.app/api?username=thiagochirana&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Meu+Github+Status" alt="thiagochirana :: Profile Stats" /></a>
 </p>
