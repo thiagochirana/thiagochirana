@@ -1,7 +1,6 @@
 
 ## Opa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou o Thiago Chirana!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/thiago-c-macedo/)](https://www.linkedin.com/in/thiago-c-macedo/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiago.chirana@gmail.com)
 
 <p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode criar</p>
