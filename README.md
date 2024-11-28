@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiago.chirana@gmail.com)
 
 <p align='left'>Apenas um garoto de programa fascinado com o que a tecnologia pode criar</p>
-<p align='left'>Atualmente sou Dev Fullstack, pizza com borda de chocolate é a melhor e Spring e Rails são meus novos brinquedos</p>
+<p align='left'>Atualmente sou Dev Fullstack, com foco em Ruby on Rails, React e Java com Spring Boot</p>
 
 <h2>Alguns dados até hoje...</h2>
 
