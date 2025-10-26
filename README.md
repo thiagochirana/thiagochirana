@@ -1,20 +1,11 @@
+## Hi, it's Thiago Chirana
 
-## Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm Thiago Chirana!
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiago@chirana.dev) 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagochirana@gmail.com)](mailto:thiago.chirana@gmail.com)
-
-<p align='left'>Experienced in developing and maintaining systems using Ruby on Rails, React, Java, and AWS (EC2, RDS, S3, SQS), with practical expertise in technical support and bug resolution. Highly adaptable to diverse environments and technologies, with strong communication skills for effective collaboration with teams and stakeholders, and a strong desire to learn and grow.</p>
-
-<h2>Some data until right now...</h2>
-
-<h4>Visitors :eyes:</h4>
-<p>
-    <a href="https://github.com/thiagochirana">
-        <img src="https://profile-counter.glitch.me/{thiagochirana}/count.svg" alt="thiagochirana :: Visitor's Count" />
-    </a>
-</p>
-
-<p>
-    <a href="https://github.com/thiagochirana"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagochirana&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Lang+Most+Used" alt="thiagochirana :: Top Langs" /></a>
-    <a href="https://github.com/thiagochirana"><img src="https://github-readme-stats.vercel.app/api?username=thiagochirana&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=fde29a&text_color=9aedfe&custom_title=Github+Status" alt="thiagochirana :: Profile Stats" /></a>
-</p>
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thiagochirana&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thiagochirana&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagochirana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
